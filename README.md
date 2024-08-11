@@ -45,3 +45,7 @@ Start the Flask Application
 type : python app.py
 Access the Chatbot
 Open your web browser and navigate to http://127.0.0.1:5000/ to interact with the chatbot.
+
+## DEMO Video
+Pls download the raw video from the link:
+https://github.com/Mrityunjay112358/SFHS-Financial-Safety-Tips-Chatbot/blob/main/SFHS%203001%20Video%20Demonstration.mp4
